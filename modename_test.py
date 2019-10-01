@@ -1,0 +1,2 @@
+import modname
+reload(modname)
