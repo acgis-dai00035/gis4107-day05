@@ -4,8 +4,8 @@ reload(ex5)
 def main():
     """main()"""
     expected = True
-    numerator = 12
-    denominator = 3
+    numerator = '4.0'
+    denominator = 2
     actual = ex5.is_divisible(numerator,denominator)
     compare_expected_and_actual(numerator,denominator, expected, actual)
 
