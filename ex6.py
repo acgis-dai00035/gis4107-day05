@@ -11,7 +11,7 @@ def is_numeric (test_string):
         else :
             return False
     else :
-        return 'False'
+        return False
 
 
 if __name__ == '__main__':

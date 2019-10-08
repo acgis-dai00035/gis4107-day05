@@ -11,7 +11,7 @@ def is_divisible (numerator,denominator):
         else :
             return False
     else :
-        return 'False'
+        return False
 
 if __name__ == '__main__':
     main()
