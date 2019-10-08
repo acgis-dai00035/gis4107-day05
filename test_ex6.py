@@ -4,7 +4,7 @@ reload(ex6)
 def main():
     """main()"""
     expected = True
-    arg = '012aaa2'
+    arg = '12'
     actual = ex6.is_numeric(arg)
     compare_expected_and_actual(arg, expected, actual)
 
